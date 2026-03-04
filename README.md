@@ -6,15 +6,22 @@
   <img src="https://komarev.com/ghpvc/?username=Emiliobeers&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
 </p>
 
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emiliobeers&show_icons=true&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🧩 Sobre mí
 
-- 📚 Estoy estudiando **SMR (Sistemas Microinformáticos y Redes)**
-- 🎯 Objetivo: hacer **ASIR** más adelante, pero me gustaría entrar en el mercado laboral.
-- 🧠 Me interesa: **[programación / redes / automatización / servidores / seguridad]**
-- ⚙️ Ahora mismo estoy aprendiendo: **[Linux / Python / Git / MySQL...]**
-- 🌱 Mi meta este año: **Encontar un trabajo online desde casa**
+- 📚 Estudiante de **SMR (Sistemas Microinformáticos y Redes)**
+- 🧠 Me gusta **aprender trasteando, probando cosas nuevas y rompiendo sistemas para entender cómo funcionan**
+- 🐧 Interesado en **Linux, redes, programación y seguridad informática**
+- ⚙️ Actualmente aprendiendo **Linux, Python, Git y bases de datos**
+- 🎯 Objetivo: continuar con **ASIR** y entrar en el **sector tecnológico**
+- 🌱 Mi meta este año: **conseguir experiencia y encontrar trabajo online en el mundo tech**
 
 ---
 
