@@ -8,7 +8,7 @@
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emiliobeers&show_icons=true&theme=github_dark)
+![Emilio's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Emiliobeers&show_icons=true&theme=tokyonight)
 
 ---
 
